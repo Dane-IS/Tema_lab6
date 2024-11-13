@@ -1,0 +1,14 @@
+[
+  {
+    "nume": "Vlad",
+    "post":"portar",
+    "data_angajare": "2024-10-21",
+    "salar": "2300"
+  },
+  {
+    "nume": "Marcel",
+    "post":"Director",
+    "data_angajare": "2024-10-20",
+    "salar": "2500"
+  }
+]
